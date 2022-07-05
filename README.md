@@ -6,7 +6,7 @@ This my model which got 80% accuracy on this dataset.
 Small description for some scripts in my project \
 ```model.py → File that contains my model code``` \
 ```augment_data.py → Data augmention for dataset``` \
-```test_model.py → Loads model from ./checkpoints and test it on images from ./images```
+```test_model.py → Loads model from ./checkpoints and test it on images from ./images``` \
 ```fix_tf_jpeg.py → Resaves broken images from dataset``` \
 ```corrupted_images.py → My util for checking dataset on broken images```
 
